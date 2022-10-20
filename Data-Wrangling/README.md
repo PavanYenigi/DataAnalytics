@@ -4,7 +4,7 @@ Eeample: Detecting the gaps, Identifying extreme outliers
 
 ## Steps Involved:
 
-####Discovery
+#### Discovery
 This is a term for understanding or getting familiar with your data. You must take a look at the data you have and think about how you would like it organized to make it easier to consume and analyze. 
 
 #### Structuring
@@ -32,3 +32,4 @@ Authenticity
 
 #### Publishing
 By this time, all the steps are completed and the data is ready for analytics. All that’s left is to publish the newly Wrangled Data in a place where it can be easily accessed and used by you and other stakeholders. 
+
