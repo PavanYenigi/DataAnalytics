@@ -16,3 +16,6 @@ Then the labraries are inported.
 
 + To extract the data using Beautiful Soup we have to create the soup. This uses the lxml parser to parse the HTML content. To get the content froom HTML, a request has to be sent to the website and get the response.
 
+### Extracting the data using few patterns:
++ Once the soup is created, we need to identify a pattern to scrape the data by inspecting the HTML page.
++ Use the identified patterns to extrat the data.
